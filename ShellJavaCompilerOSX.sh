@@ -44,7 +44,3 @@ echo " * Finished cleaning!"
 
 # The compilation is finished, inform the user
 echo " * Finished compiling"
-
-# Execute the program
-echo " * Executing the program!"
-java -cp $SCRIPT_DIR/bin clemencedev.javachrono.main.Main
